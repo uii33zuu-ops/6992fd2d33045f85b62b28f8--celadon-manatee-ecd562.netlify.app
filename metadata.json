@@ -1,0 +1,7 @@
+{
+  "name": "UNIQUE - Smart Study Assistant",
+  "description": "An AI-powered educational platform that analyzes study materials and generates summaries, quizzes, YouTube recommendations, and interactive AI assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
