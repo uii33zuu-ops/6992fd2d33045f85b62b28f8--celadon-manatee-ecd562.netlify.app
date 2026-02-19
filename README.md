@@ -1,0 +1,1 @@
+# 6992fd2d33045f85b62b28f8--celadon-manatee-ecd562.netlify.app
